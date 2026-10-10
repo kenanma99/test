@@ -13,3 +13,7 @@ React, JavaScript, Vite
 ## التشغيل
 npm install
 npm run dev
+
+## Live demo
+
+https://test-for-learn.netlify.app/
